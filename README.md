@@ -2,7 +2,7 @@
 ### Hello, I am Caio Ramalho...🖖
 
 ### Rede social
-[![LINKDIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/gabriel-bueno-525b09209/](https://www.linkedin.com/in/caio-henrique-ramalho-5b1b12207?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app))
+[![LINKDIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/gabriel-bueno-525b09209/](https://www.linkedin.com/in/caio-henrique-ramalho-5b1b12207?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)))
 
 
 ### Tecnologias que utilizo:
